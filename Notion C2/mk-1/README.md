@@ -18,8 +18,6 @@ https://github.com/user-attachments/assets/b71463bc-9072-4eba-b392-110a4cd6d9a1
 - Private page only – no public sharing needed
 - Supports PowerShell, Python, and future Go/Nim agents
 - Automatic output chunking (beats Notion’s 2000-char limit)
-- Used by red teams & some very naughty APTs in 2025
-
 ---
 
 ## 🧪 How It Works
