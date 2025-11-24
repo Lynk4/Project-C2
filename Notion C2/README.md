@@ -1,10 +1,11 @@
-# Notion C2
-
 # NotionC2 🔴⚡
 
 ---
 
-[ezgif-68de2073653202ca.mov](Notion%20C2/ezgif-68de2073653202ca.mov)
+
+https://github.com/user-attachments/assets/b71463bc-9072-4eba-b392-110a4cd6d9a1
+
+---
 
 ## Working…………
 
