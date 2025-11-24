@@ -1,5 +1,11 @@
 # ⚡ NOTION C2  - mk-2
 
+## **🎯 Tick a box → Get a shell. Zero infrastructure. 100% Notion traffic.**
+
+---
+
+https://github.com/user-attachments/assets/dc67f635-4217-4ee1-9b94-7ec667a157e3
+
 ---
 
 
@@ -23,3 +29,19 @@ No typing. No looping. No PENDING: text. Pure magic.
 - 🗂️ Binary-safe file handling
 ---
 
+### Paste your token id and page id......
+
+```python
+TOKEN   = "modify-me"
+PAGE_ID = "modify-me"
+```
+
+---
+
+### Commands Execution..
+
+```bash
+1. Turn it into a **To-Do list** (type `/todo` or press `[ ]`)
+2. Add some innocent + evil tasks:
+```
+---
