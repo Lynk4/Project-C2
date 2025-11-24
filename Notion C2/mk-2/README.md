@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/dc67f635-4217-4ee1-9b94-7ec667a157e3
 
 
 Just check a box → command runs → output appears → box auto-unchecks.  
-No typing. No looping. No PENDING: text. Pure magic.
+No typing. No looping. No PENDING: text..........
 
 ### Why This........
 - 🌐 Runs entirely over api.notion.com
