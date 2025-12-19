@@ -269,11 +269,13 @@ REPO = "ProjectTasks"  # Your repo name
 
 ---
 
-<img width="1119" height="701" alt="Screenshot 2025-12-18 at 12 51 34 PM" src="https://github.com/user-attachments/assets/c644bd99-183e-4db1-9a80-b61559c2d1cc" />
+<img width="1440" height="618" alt="Screenshot 2025-12-19 at 4 43 40 PM" src="https://github.com/user-attachments/assets/5ed9c500-6f6e-442b-b857-2ed3f645a691" />
+
 
 ---
 
-<img width="1417" height="780" alt="Screenshot 2025-12-18 at 12 21 42 PM" src="https://github.com/user-attachments/assets/3833d15f-360e-45d1-b8e6-2ebc36b69343" />
+<img width="1403" height="512" alt="Screenshot 2025-12-19 at 4 44 18 PM" src="https://github.com/user-attachments/assets/6dadf16f-776a-4b68-b738-bf4073a9649e" />
+
 
 ---
 
