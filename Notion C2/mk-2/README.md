@@ -2,9 +2,6 @@
 
 ## **🎯 Tick a box → Get a shell. Zero infrastructure. 100% Notion traffic.**
 
----
-
-https://github.com/user-attachments/assets/dc67f635-4217-4ee1-9b94-7ec667a157e3
 
 ---
 
