@@ -9,6 +9,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/23c70b32-6346-44df-8bb2-6be545af7d3f
+
+---
+
 ### ⚡ You’re not just using Notion.........;)  
 ### You’re using **the best version of it on Earth.**
 
