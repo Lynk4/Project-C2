@@ -1,4 +1,8 @@
-# Telegram as a c2..........
+# 🤖📡 Telegram as a C2 Control Channel
+
+---
+
+
 
 ---
 
@@ -20,43 +24,36 @@
 ---
 
 
-### Data Flow:
-
-    - Operator sends command via Telegram to bot
-
-    - Bot forwards to Telegram API
-
-    - Agent polls API for new commands
-
-    - Agent executes command locally
-
-    - Results sent back via Telegram API
-
-    - Operator receives results in Telegram
-
 
 ---
 
-### 📋 Prerequisites Software Requirements
+## 🔄 Data Flow
 
-- Python 3.8+ (tested on 3.8-3.12)
+- 📤 Operator sends command via **Telegram** to the **Bot**
+- 🔁 Bot forwards data through **Telegram API**
+- 📥 Agent **polls API** for new commands
+- ⚙️ Agent executes command **locally**
+- 📤 Results sent back via **Telegram API**
+- 📬 Operator receives output in **Telegram**
 
-- pip package manager
+---
 
-- Git (for cloning repository)
+## 📋 Prerequisites & Software Requirements
 
-- Telegram account (mobile or desktop)
+- 🐍 **Python 3.8+** (tested on 3.8 – 3.12)
+- 📦 **pip** package manager
+- 🧬 **Git** (for cloning repository)
+- 💬 **Telegram account** (mobile or desktop)
 
 ```python
 # Core dependencies
 pip install requests
 
-# Optional (for enhanced features)
-pip install cryptography      # For encrypted config
-pip install pillow           # For screenshots (Windows)
-pip install netifaces        # For network interface detection
+# Optional (enhanced features)
+pip install cryptography      # 🔐 Encrypted config
+pip install pillow           # 🖼️ Screenshots (Windows)
+pip install netifaces        # 🌐 Network interface detection
 ```
-
 ---
 
 
@@ -73,32 +70,34 @@ pip install netifaces        # For network interface detection
 
 
 ### 🔧 Setup Guide (Step by Step)
-### Step 1: Create Telegram Bot
+### 🥇 Step 1: Create Telegram Bot
 
-- Open Telegram on any device
+Open Telegram on any device 📱💻
 
-- Search for @BotFather (official bot creator)
+Search for @BotFather
 
-- Start chat and send: /newbot
+Start chat and send: /newbot
 
-- Choose a name for your bot (e.g., "SystemMonitor")
+Choose a name (e.g., SystemMonitor)
 
-- Choose a username ending with 'bot' (e.g., "system_monitor_bot")
+Choose a username ending with bot
+(e.g., system_monitor_bot)
 
-- SAVE THE TOKEN provided (looks like: 1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ)
-
----
-
-
-### Step 2: Get Your Chat ID
-
-- use chatid.py to get it........
-
-- Save the number (e.g., 123456789)
+💾 SAVE THE TOKEN
+(Example: 1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ)
 
 ---
 
-### Step 3: Configure the Agent
+
+### 🥈 Step 2: Get Your Chat ID
+
+Use chatid.py to retrieve it 🆔
+
+Save the number (e.g., 123456789)
+
+---
+
+### 🥉 Step 3: Configure the Agent
 
 ```python3
 # In the script, edit these lines:
@@ -116,7 +115,7 @@ python3 telegram_c2.py
 
 ### On telegram bot
 
-Will get a notification on telegram bot.
+#### 📩 You will receive a notification on the Telegram bot once started
 
 
 ----
