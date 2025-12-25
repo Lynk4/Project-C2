@@ -17,7 +17,7 @@
 ### 🚀 Quick Start
 1. Install Dependencies
 
-```
+```python
 pip install requests icalendar
 ```
 
@@ -30,19 +30,19 @@ Click "+" next to "Other calendars" → "Create new calendar"
 
 Configure:
 
-      Name: Project Schedule (or any name)
+Name: Project Schedule (or any name)
 
-      Timezone: Your timezone
+Timezone: Your timezone
 
 ```Make calendar public (CRITICAL)```
 
-    Get Calendar URL:
+Get Calendar URL:
 
-        Calendar Settings → "Integrate calendar"
+Calendar Settings → "Integrate calendar"
 
-        Copy "Public address in iCal format"
+Copy "Public address in iCal format"
 
-        URL looks like: https://calendar.google.com/calendar/ical/.../public/basic.ics
+URL looks like: https://calendar.google.com/calendar/ical/.../public/basic.ics
 
 
 ### 3. Create Discord Webhook
